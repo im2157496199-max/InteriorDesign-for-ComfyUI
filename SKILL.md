@@ -15,7 +15,8 @@ generation and controlled room restyling in ComfyUI.
 2. Check whether the required ComfyUI dependencies are already available:
    Depth Anything V2, ComfyUI IPAdapter Plus, and ComfyMath. Do not install or
    download models unless the user has authorized that action.
-3. Start from `workflow/stable-design-for-comfyui.json`. Use the repository's
+3. Start from `workflow/stable-desing-for-comfyui.json` (the repository's
+   filename uses `desing`). Use the repository's
    Interior Design Segmentator, Image Normalize, and Control Items nodes.
 4. Keep depth and segmentation conditioning aligned with the source geometry.
    Use IP-Adapter references for appearance rather than allowing them to
